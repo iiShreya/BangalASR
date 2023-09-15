@@ -14,7 +14,7 @@ __Quick demo:__ [Video link](https://www.youtube.com/watch?v=s9nGrG5cF5M&list=PL
 
 
 ## Dataset
-[Bengali ASR training dataset](http://openslr.org/53/) containing `~196K utterances`. I did not training with all the sample instead I take a portion of sample from this dataset. You will find the samall dataset under `data/`
+[Bengali ASR training dataset](http://openslr.org/53/) containing `~196K utterances`. I did not training with all the sample instead I take a portion of sample from this dataset. You will find the small dataset under `data/`
 
 ## Dependency
 ```bash
